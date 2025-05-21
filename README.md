@@ -18,13 +18,6 @@ A simple and responsive **Tic Tac Toe** game built using:
 
 ---
 
-## 🚀 Demo
-
-> [Live Demo (optional)](https://your-live-link-here.com)  
-> *(You can deploy this on GitHub Pages or Vercel and update the link.)*
-
----
-
 ## 📁 Project Structure
 tic-tac-toe/
 ├── src/
@@ -50,6 +43,7 @@ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 Open index.html in a browser to play!
 
 
+---
 📃 License
 
 This project is open source and free to use.
