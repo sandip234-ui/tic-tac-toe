@@ -19,6 +19,7 @@ A simple and responsive **Tic Tac Toe** game built using:
 ---
 
 ## 📁 Project Structure
+```
 tic-tac-toe/
 ├── src/
 │   └── input.css         # Tailwind CSS input
@@ -27,6 +28,7 @@ tic-tac-toe/
 ├── tailwind.config.js    # Tailwind config
 ├── package.json          # Project metadata
 └── .gitignore            # Ignored files (like node_modules, dist)
+```
 
 ## 📦 Setup & Development
 
