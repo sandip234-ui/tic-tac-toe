@@ -1,0 +1,9 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore build output
+dist/output.css
+
+# macOS or OS-specific junk files (optional)
+.DS_Store
+Thumbs.db
