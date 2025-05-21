@@ -45,7 +45,6 @@ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 Open index.html in a browser to play!
 
 
----
 📃 License
 
 This project is open source and free to use.
